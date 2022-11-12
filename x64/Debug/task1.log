@@ -1,0 +1,4 @@
+﻿  main.c
+D:\FCI\Barallel Programing\task1\task1\main.c(44,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FCI\Barallel Programing\task1\task1\main.c(91,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  task1.vcxproj -> D:\FCI\Barallel Programing\task1\x64\Debug\task1.exe
